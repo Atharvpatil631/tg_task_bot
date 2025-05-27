@@ -49,6 +49,3 @@ Use these commands inside Telegram:
 
 Feel free to open issues or submit pull requests to improve the bot.
 
-## License
-
-This project is licensed under the MIT License.
